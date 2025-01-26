@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_PEYM00.mk
+     $(LOCAL_DIR)/twrp_OP5245.mk
